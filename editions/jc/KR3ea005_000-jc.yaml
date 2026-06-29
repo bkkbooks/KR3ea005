@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ea005/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外篇
+  hash: sha256:dd869528a54d5007f21aadb2fa1bb52f77b4243b985d35ab1e58b7875ef81492
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ea005_jc_000-d9.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ea005_jc_000-d9d2, level: 2, head_text: 卷之四}
+metadata:
+  title: 素問經注節解
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea005.xml
+hash: sha256:3085e92e8b510e2bf565f48b04737dc9f4ea9c6e1d78c6b150f176af6ae9ec2e
