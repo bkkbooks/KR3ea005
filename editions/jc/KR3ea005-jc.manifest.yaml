@@ -29,12 +29,11 @@ assets:
   - {seq: 8, filename: KR3ea005_008-jc.yaml, hash: 'sha256:48d78d6f03e1d370b30e083788fbcb0a5de67d9e7a95d36b81987f72e8854390'}
   - {seq: 9, filename: KR3ea005_009-jc.yaml, hash: 'sha256:83a61780889ac8488d8497bb4fda711a02042a898d49fb04264f2e82ee247034'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea005_000-jc.markers.yaml, hash: 'sha256:b350df4c483daefd03ca5b9a83bdfc1ab82b8c61636a433f92511a1e6a25d720'}
+  - {seq: 0, role: markers, filename: assets/KR3ea005_000-jc.markers.yaml, hash: 'sha256:29a8292afb4f26e140f39a80571775afdedc5e9f0baeff3b697db17dea7c03d2'}
   - {seq: 1, role: markers, filename: assets/KR3ea005_001-jc.markers.yaml, hash: 'sha256:50eb792851aabfeeb78804360b05acb777be0f7d863a48d0bbaf351de20f38e2'}
   - {seq: 2, role: markers, filename: assets/KR3ea005_002-jc.markers.yaml, hash: 'sha256:3cbc8e593fc9f010f94bdb60b3129ac7c87f1bbbb6b88052e422477812d27322'}
   - {seq: 3, role: markers, filename: assets/KR3ea005_003-jc.markers.yaml, hash: 'sha256:fab6da11dfe9eef6882a1bb219760def9c4d7e483e51d7865d56058ec3e22cb0'}
-  - {seq: 0, role: markers, filename: assets/KR3ea005_000-jc.markers.yaml, hash: 'sha256:b350df4c483daefd03ca5b9a83bdfc1ab82b8c61636a433f92511a1e6a25d720'}
-  - {seq: 4, role: markers, filename: assets/KR3ea005_004-jc.markers.yaml, hash: 'sha256:3b18d7b0b1bb6913cf2328b7979d4d0d7a5596726dea6eb4a802c67ec75923fd'}
+  - {seq: 4, role: markers, filename: assets/KR3ea005_004-jc.markers.yaml, hash: 'sha256:ce65ade5604e8d7e2e3cdfff9e5b15e40cfcf431a99e68ee018bb6c71c939044'}
   - {seq: 5, role: markers, filename: assets/KR3ea005_005-jc.markers.yaml, hash: 'sha256:155aed36809fb19769a5c37a84fdeb53dd94ecabf5dcb8987391151449b30503'}
   - {seq: 6, role: markers, filename: assets/KR3ea005_006-jc.markers.yaml, hash: 'sha256:63baa578680ec418298646aae49d1024130f22cbfd618aba9eece21149dfcb60'}
   - {seq: 7, role: markers, filename: assets/KR3ea005_007-jc.markers.yaml, hash: 'sha256:6b08f73793a2f66400b782966bf9bd60c80b11d6695dcd18105f9858e0f9566b'}
@@ -1001,4 +1000,4 @@ table_of_contents:
   label: 解精微論
   type: section
   level: 3
-hash: sha256:c5b9428b54f81017e76b0262a1a6dfa2ba3a2658c47c82ad6e2697fcb072a52b
+hash: sha256:646f158b88c3c31cff721e933257c0c039889fdf2cf65ab6debc10f894af2ac4
